@@ -1,0 +1,46 @@
+# Website
+baseURL = "https://spyhoodle.me"
+languageCode = "en-gb"
+title = "spyhoodle.me"
+theme = "developer"
+author = "Madeleine"
+
+# Enable _index.md
+[params]
+noindex = false
+
+# Theme colours
+[params.theme]
+palette = "base16-dark"
+
+# Sidebar: about
+[params.about]
+title = "spyhoodle.me"
+description = "Maddie's personal website with blog posts, tutorials, and opinions."
+
+# Sidebar: social
+[[params.socialLinks]]
+icon = "fa-brands fa-github"
+title = "GitHub"
+url = "https://github.com/SpyHoodle"
+
+[[params.socialLinks]]
+icon = "fa-solid fa-envelope"
+title = "Email"
+url = "mailto:maddie@spyhoodle.me"
+
+[[params.socialLinks]]
+icon = "fa-solid fa-lock"
+title = "Matrix"
+url = "@maddie:spyhoodle.me"
+
+[menu]
+[[menu.main]]
+  identifier = "articles"
+  name = "articles/"
+  url = "/articles/"
+
+[[menu.main]]
+  identifier = "updates"
+  name = "updates/"
+  url = "/updates/"
