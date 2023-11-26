@@ -16,7 +16,6 @@ palette = "base16-dark"
 # Sidebar: about
 [params.about]
 title = "spyhoodle.me"
-description = "Maddie's personal website with blog posts, tutorials, and opinions."
 
 # Sidebar: social
 [[params.socialLinks]]
@@ -33,14 +32,3 @@ url = "mailto:maddie@spyhoodle.me"
 icon = "fa-solid fa-lock"
 title = "Matrix"
 url = "@maddie:spyhoodle.me"
-
-[menu]
-[[menu.main]]
-  identifier = "articles"
-  name = "articles/"
-  url = "/articles/"
-
-[[menu.main]]
-  identifier = "updates"
-  name = "updates/"
-  url = "/updates/"
