@@ -6,46 +6,47 @@
     <description>Recent content on spyhoodle.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 03 Apr 2023 20:18:46 +0100</lastBuildDate><atom:link href="https://spyhoodle.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Apr 2023 20:18:46 +0100</lastBuildDate>
+    <atom:link href="https://spyhoodle.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My EDC for 2023</title>
+      <link>https://spyhoodle.me/articles/every-day-carry/</link>
+      <pubDate>Wed, 10 May 2023 17:57:58 +0100</pubDate>
+      <guid>https://spyhoodle.me/articles/every-day-carry/</guid>
+      <description>Introduction This year I have decided to carry more items with me as opposed to going outside with almost nothing. This means that I will be able to be prepared for more situations, such as emergencies or generally any unforeseen events. Preparing for simple upcoming events is part of my &amp;ldquo;prepared for everything&amp;rdquo; goal.
+I will carry things in two places - on my person (pockets, belt &amp;amp; wrists) or in my bag.</description>
+    </item>
     <item>
       <title>Planners</title>
       <link>https://spyhoodle.me/articles/planners/</link>
       <pubDate>Tue, 25 Oct 2022 22:32:42 +0100</pubDate>
-      
       <guid>https://spyhoodle.me/articles/planners/</guid>
       <description>I literally cannot find a good planner and it&amp;rsquo;s driving me crazy.
 A good planner would: Follow GTD - capture with an inbox, tags, etc. Be native - I don&amp;rsquo;t want a slow unresponsive electron app Be open-source - I dont want people spying on what I&amp;rsquo;m actually doing Have an easy to use phone app - so I can check, update or add tasks from anywhere quickly Sync with git - reliable, easy, sustainable sync that doesnt require use of a cloud service Not be bloated - we don&amp;rsquo;t need timers (super productivity) or calculators (taskwarrior) in our task managers Have do and due dates - one of the best features from things (app on iOS and macOS), saying when you&amp;rsquo;ll do something but also keeping the date it&amp;rsquo;s due for (i.</description>
     </item>
-    
     <item>
       <title>iPods</title>
       <link>https://spyhoodle.me/articles/ipods/</link>
       <pubDate>Sun, 04 Sep 2022 22:32:39 +0100</pubDate>
-      
       <guid>https://spyhoodle.me/articles/ipods/</guid>
       <description>iPods are simple and effective music players, which don&amp;rsquo;t have a high cost yet are probably the best music player you can buy. They are products that give you freedom over your music and control over your device.
 Why are old iPods so great? Higher sound quality with a built in DAC for the shockingly rare included headphone jack. Supports high sound quality formats, like FLAC and ALAC. Mods - you can repair them, upgrade them, mod them etc.</description>
     </item>
-    
     <item>
       <title>Casio Watches</title>
       <link>https://spyhoodle.me/articles/casio/</link>
       <pubDate>Thu, 04 Aug 2022 22:32:24 +0100</pubDate>
-      
       <guid>https://spyhoodle.me/articles/casio/</guid>
       <description>Many people may know Casio as the calculator brand, especially in the UK. However, Casio is also known for their impressive, functional, reliable and stunning watches. Recently, I have discovered the Casio world of watches, and I must say they have shot up to one of my favourite brands of all time (as mindless capitalist consumerist that sounds.)
 Why the Casio watch? Reliability - They will continue to work effortlessly without glitches or bugs.</description>
     </item>
-    
     <item>
       <title>HDMI is terrible</title>
       <link>https://spyhoodle.me/articles/hdmi-vs-dp/</link>
       <pubDate>Fri, 01 Jul 2022 22:32:35 +0100</pubDate>
-      
       <guid>https://spyhoodle.me/articles/hdmi-vs-dp/</guid>
       <description>There&amp;rsquo;s nothing I hate more than the HDMI connector. DisplayPort beats it in 3 main areas.
 Bandwidth HDMI is always the worse connector when it comes to bandwidth. Recently HDMI 2.1 was introduced, which is has more bandwidth than DisplayPort 1.4, however DisplayPort 2.0 was also introduced which absolutely destroys HDMI 2.1. The bandwidth is up to ~80Gbps with the ability to fucking power two 8K monitors at 120Hz with 4:4:4 colour.</description>
     </item>
-    
   </channel>
 </rss>

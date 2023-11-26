@@ -1,5 +1,5 @@
 :root {
-  --background: #1E2127;
+  --background: #000000;
   --foreground: #FFFFFF;
   --secondary: #ABB2BF;
   --tertiary: #5C6370;
@@ -13,7 +13,6 @@ body {
   line-height: 1.5;
   max-width: 50rem;
   padding: 1rem;
-  margin: 0 auto;
 }
 
 img {
@@ -33,7 +32,6 @@ img {
 .site-nav a {
   font-size: 13px !important;
   display: block;
-  padding: 0.3rem;
 }
 
 .site-nav .logo {
@@ -72,6 +70,7 @@ img {
 /* TYPOGRAPHY */
 h1 {
   font-size: 25px;
+  margin-top: 0px;
 }
 
 h2 {

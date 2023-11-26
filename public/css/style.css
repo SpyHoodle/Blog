@@ -13,7 +13,10 @@ body {
   line-height: 1.5;
   max-width: 50rem;
   padding: 1rem;
-  margin: 0 auto;
+}
+
+img {
+  width: 20rem;
 }
 
 .content {
@@ -29,7 +32,6 @@ body {
 .site-nav a {
   font-size: 13px !important;
   display: block;
-  padding: 0.3rem;
 }
 
 .site-nav .logo {

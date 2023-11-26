@@ -1,9 +1,9 @@
 # Website
 baseURL = "https://spyhoodle.me"
 languageCode = "en-gb"
-title = "spyhoodle.me"
+title = "blog.spyhoodle.me"
 theme = "developer"
-author = "Madeleine"
+author = "Maddie H"
 
 # Enable _index.md
 [params]
